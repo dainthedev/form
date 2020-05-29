@@ -1,0 +1,23 @@
+form input[type=text]#user-name{
+  /*display: block;*/
+}
+
+form input{
+  width: 100%;
+}
+
+form textarea{
+  width: 100%;
+}
+
+hr{
+  margin-bottom: 30px;
+}
+
+.extra-space{
+  margin-bottom: 16px;
+}
+
+form input[type=radio]#good{
+  width: 5px;
+}
